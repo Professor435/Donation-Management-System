@@ -24,4 +24,6 @@ I’d love to hear your feedback and suggestions!
 
 #WebDevelopment #FrontendDevelopment #JavaScript #SoftwareDevelopment #DonationPlatform #TechForGood #SocialImpact #NonProfit #WebDesign #CodingProjects #StudentDeveloper #TechProjects #Innovation #DeveloperJourney #BuildInPublic #LinkedInProjects 🚀❤️
 
+#DonationManagement #NonProfit #Charity #Fundraising #WebDevelopment #Django #React #PaymentIntegration #Crowdfunding #NGO #SocialImpact #FullStack #Database #UserManagement #Transparency #ReceiptSystem #TaxReceipt #OnlineDonation #OpenSource #PhilanthropyTech
+
 contact for more according to your reqiurements and needs(professorshami435@gmail.com)
