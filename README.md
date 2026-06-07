@@ -26,4 +26,4 @@ I’d love to hear your feedback and suggestions!
 
 #DonationManagement #NonProfit #Charity #Fundraising #WebDevelopment #Django #React #PaymentIntegration #Crowdfunding #NGO #SocialImpact #FullStack #Database #UserManagement #Transparency #ReceiptSystem #TaxReceipt #OnlineDonation #OpenSource #PhilanthropyTech
 
-contact for more according to your reqiurements and needs(professorshami435@gmail.com)
+contact for more projects or personal FYP's(professorshami435@gmail.com)
