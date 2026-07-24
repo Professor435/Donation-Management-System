@@ -7,7 +7,7 @@ What if technology could make helping others faster, easier, and more transparen
 I’m excited to share my **Donation Website**, a web-based project designed to simplify the process of donating and supporting those in need through a clean and user-friendly platform.
 
 🎥 In this project, you’ll see how the system helps to:
-💳 Make donations easily and securely
+💳 Make donations easily and securely 
 👤 Manage donor information
 📊 Track donation records efficiently
 📢 Create awareness for different causes
